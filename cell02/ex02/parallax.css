@@ -2,11 +2,11 @@ body {
     margin: 0;
     padding: 0;
   }
-  .firstContainer {
+  .Before {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSid9PrrsIvoKdYcA2Cmpo0KQ2UICjPn8Gsmg&s");
+    background-image: url("https://i.pinimg.com/736x/bf/3e/49/bf3e49ea79ec68a80a8b06ae47564b21.jpg ");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@ body {
     width: 100vw;
   }
   
-  .secondContainer {
+  .AND {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,11 +28,11 @@ body {
     width: 100vw;
   }
   
-  .thirdContainer {
+  .Now {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("https://m.media-amazon.com/images/I/51V+1wd2dFL.jpg");
+    background-image: url("https://p16-va.lemon8cdn.com/tos-alisg-v-a3e477-sg/o0VAIKFfA6gv1xJHDADJQSxlbHMAyED7AeEzf0~tplv-tej9nj120t-origin.webp");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
